@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prometr-poverka-vody.gsscoot11.chatgpt.site/sitemap.xml
